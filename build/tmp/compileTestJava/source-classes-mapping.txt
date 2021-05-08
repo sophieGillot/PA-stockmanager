@@ -1,0 +1,6 @@
+functional/RestStepDefs.java
+ functional.RestStepDefs
+functional/FunctionalTests.java
+ functional.FunctionalTests
+uk/co/danielbryant/djshopping/stockmanager/ShopfrontApplicationTests.java
+ uk.co.danielbryant.djshopping.stockmanager.ShopfrontApplicationTests

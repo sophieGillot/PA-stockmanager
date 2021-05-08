@@ -1,0 +1,14 @@
+uk/co/danielbryant/djshopping/stockmanager/resources/StockResource.java
+ uk.co.danielbryant.djshopping.stockmanager.resources.StockResource
+uk/co/danielbryant/djshopping/stockmanager/services/StockService.java
+ uk.co.danielbryant.djshopping.stockmanager.services.StockService
+uk/co/danielbryant/djshopping/stockmanager/exceptions/StockNotFoundException.java
+ uk.co.danielbryant.djshopping.stockmanager.exceptions.StockNotFoundException
+uk/co/danielbryant/djshopping/stockmanager/StockManagerApplication.java
+ uk.co.danielbryant.djshopping.stockmanager.StockManagerApplication
+uk/co/danielbryant/djshopping/stockmanager/config/DataGenerator.java
+ uk.co.danielbryant.djshopping.stockmanager.config.DataGenerator
+uk/co/danielbryant/djshopping/stockmanager/model/Stock.java
+ uk.co.danielbryant.djshopping.stockmanager.model.Stock
+uk/co/danielbryant/djshopping/stockmanager/repositories/StockRepository.java
+ uk.co.danielbryant.djshopping.stockmanager.repositories.StockRepository
